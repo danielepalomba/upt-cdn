@@ -12,3 +12,5 @@ class = com.app.Main
 verbose = true
 
 delay = true
+
+version = 1
