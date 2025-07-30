@@ -1,0 +1,14 @@
+appbase = https://danielepalomba.github.io/upt-cdn/
+
+# UI Configuration
+ui.name = Gestionale
+
+# Application jar files
+code = gest-1.0-SNAPSHOT-jar-with-dependencies.jar
+
+# The main entry point for the application
+class = com.app.Main
+
+verbose = true
+
+delay = true
