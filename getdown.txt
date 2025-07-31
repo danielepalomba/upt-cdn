@@ -13,4 +13,4 @@ verbose = true
 
 delay = true
 
-version = 1
+version = 2
