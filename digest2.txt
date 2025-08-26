@@ -1,3 +1,3 @@
 getdown.txt = b2e10f3b6576038bcc4672f4ad4bc80f5e0aa1d44ab6259128404a0110b6a531
-gest-1.0-SNAPSHOT-jar-with-dependencies.jar = 2c7e138388e0667edc24c7ac89d50962346b2d52fcc32bd83f3a25c7f365805d
-digest2.txt = d76fe3a667833b0eca861dca9a3d42eaaf4ebbe1c937c91e08fa86bbaed8e776
+gest-1.0-SNAPSHOT-jar-with-dependencies.jar = 8070e014f707cfea0bbf935696829018f1e1d442bcd118860a0e3feaf0075ce1
+digest2.txt = 2e2318a6f0061dcf0b89170ad183f5c65548a094ebd2db27120fb50f111a74d1
